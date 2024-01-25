@@ -47,12 +47,12 @@ html {
     max-width: 30%;
   }
   
-  img[src="images/headshot.jpeg"] {
+  img[src="headshot.jpeg"] {
     margin-left: auto;
     margin-right: auto;
 }
  
-img[src="images/ski.JPG"] {
+img[src="ski.JPG"] {
   margin-left: auto;
   margin-right: auto;
 }
